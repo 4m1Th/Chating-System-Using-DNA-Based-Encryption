@@ -1,0 +1,226 @@
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\DNAENCRIPTION.dll.config
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\DNAENCRIPTION.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\DNAENCRIPTION.pdb
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csc.exe
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csc.exe.config
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csc.rsp
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csi.exe
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csi.exe.config
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csi.rsp
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.AppContext.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Collections.Immutable.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Console.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.IO.Compression.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.IO.FileSystem.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.IO.Pipes.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Reflection.Metadata.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.AccessControl.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Claims.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.ValueTuple.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Xml.XPath.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\vbc.exe
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\vbc.exe.config
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\vbc.rsp
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\VBCSCompiler.exe
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\VBCSCompiler.exe.config
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\obj\Debug\DNAENCRIPTION.csprojAssemblyReference.cache
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\obj\Debug\DNAENCRIPTION.csproj.CoreCompileInputs.cache
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\obj\Debug\DNAENCRIPTION.csproj.CopyComplete
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\obj\Debug\DNAENCRIPTION.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\obj\Debug\DNAENCRIPTION.pdb
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\DNAENCRIPTION.dll.config
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\DNAENCRIPTION.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\DNAENCRIPTION.pdb
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csc.exe
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csc.exe.config
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csc.rsp
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csi.exe
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csi.exe.config
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csi.rsp
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.AppContext.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Collections.Immutable.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Console.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.IO.Compression.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.IO.FileSystem.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.IO.Pipes.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.AccessControl.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Claims.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.ValueTuple.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Xml.XPath.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\vbc.exe
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\vbc.exe.config
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\vbc.rsp
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\VBCSCompiler.exe
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\VBCSCompiler.exe.config
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\obj\Debug\DNAENCRIPTION.csprojAssemblyReference.cache
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\obj\Debug\DNAENCRIPTION.csproj.CoreCompileInputs.cache
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\obj\Debug\DNAENCRIPTION.csproj.CopyComplete
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\obj\Debug\DNAENCRIPTION.dll
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\obj\Debug\DNAENCRIPTION.pdb
+D:\Project cpy\DNAENCRIPTION\DNAENCRIPTION\bin\EncDNA.dll
+F:\Project\DNAENCRIPTION\DNAENCRIPTION\bin\EncDNA.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\DNAENCRIPTION.dll.config
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\DNAENCRIPTION.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\DNAENCRIPTION.pdb
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csc.exe
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csc.exe.config
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csc.rsp
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csi.exe
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csi.exe.config
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csi.rsp
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.AppContext.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Console.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.IO.Compression.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Claims.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.ValueTuple.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\vbc.exe
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\vbc.exe.config
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\vbc.rsp
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\VBCSCompiler.exe
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\EncDNA.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\obj\Debug\DNAENCRIPTION.csprojAssemblyReference.cache
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\obj\Debug\DNAENCRIPTION.csproj.CoreCompileInputs.cache
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\obj\Debug\DNAENCRIPTION.csproj.CopyComplete
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\obj\Debug\DNAENCRIPTION.dll
+C:\Users\Amith\Desktop\DNAENCRIPTION\DNAENCRIPTION\obj\Debug\DNAENCRIPTION.pdb
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\DNAENCRIPTION.dll.config
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\DNAENCRIPTION.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\DNAENCRIPTION.pdb
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csc.exe
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csc.exe.config
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csc.rsp
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csi.exe
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csi.exe.config
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\csi.rsp
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.Managed.Core.targets
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.AppContext.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Collections.Immutable.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Console.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.IO.Compression.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.IO.FileSystem.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.IO.Pipes.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Reflection.Metadata.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.AccessControl.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Claims.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Security.Principal.Windows.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.ValueTuple.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Xml.XmlDocument.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Xml.XPath.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\vbc.exe
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\vbc.exe.config
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\vbc.rsp
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\VBCSCompiler.exe
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\roslyn\VBCSCompiler.exe.config
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\obj\Debug\DNAENCRIPTION.csprojAssemblyReference.cache
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\obj\Debug\DNAENCRIPTION.csproj.CopyComplete
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\obj\Debug\DNAENCRIPTION.dll
+E:\COC\DNAENCRIPTION\DNAENCRIPTION\obj\Debug\DNAENCRIPTION.pdb

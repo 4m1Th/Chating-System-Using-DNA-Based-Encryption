@@ -1,0 +1,129 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.Master.cs" Inherits="DNAENCRIPTION.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+        <title>Admin</title>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
+    <!--     Fonts and icons     -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+    <!-- CSS Files -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="assets/css/paper-dashboard.css?v=2.0.0" rel="stylesheet" />
+    <!-- CSS Just for demo purpose, don't include it in your project -->
+    <link href="assets/demo/demo.css" rel="stylesheet" />
+    <link href="assets/scss/cardandheader.css" rel="stylesheet" />
+  <style>
+    
+  </style>
+  
+</head>
+<body  style="background: url(../images/altnews-twitter-back.jpg)  no-repeat 0px 0px;background-size:cover;">
+  
+               <form id="form2" runat="server">
+        <div>
+                        <div class="wrapper ">
+    <div class="sidebar" data-color="white" data-active-color="danger" >
+      <!--
+        Tip 1: You can change the color of the sidebar using: data-color="blue | green | orange | red | yellow"
+    -->
+      <div class="logo">
+        <a href="http://www.creative-tim.com" class="simple-text logo-mini">
+          <div class="logo-image-small">
+            <img src="assets/img/logo-small.png">
+          </div>
+        </a>
+        <a href="http://www.creative-tim.com" class="simple-text logo-normal">
+          Admin
+          <!-- <div class="logo-image-big">
+            <img src="assets/img/logo-big.png">
+          </div> -->
+        </a>
+      </div>
+      <div class="sidebar-wrapper">
+        <ul class="nav">
+               <li class="active">
+            <a href="Admin_chat.aspx">
+              <i class="nc-icon nc-single-copy-04"></i>
+              <p>Chat</p>
+            </a>
+          </li>
+          <li >
+            <a href="MemberDetails.aspx">
+              <i class="nc-icon nc-tile-56"></i>
+              <p>MemberDetails</p>
+            </a>
+          </li>
+          
+       
+                <li >
+            <a href="AssignWork.aspx">
+              <i class="nc-icon nc-money-coins"></i>
+              <p>Provide Work</p>
+            </a>
+          </li>
+          
+          
+           <li >
+            <a href="WorkingStatus.aspx">
+              <i class="nc-icon nc-single-copy-04"></i>
+              <p>Working Status</p>
+            </a>
+          </li>
+                <li >
+            <a href="Login.aspx">
+              <i class="nc-icon nc-tile-56"></i>
+              <p>Logout</p>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="main-panel" style="background-color:transparent !important">
+      <!-- Navbar -->
+      <nav class="navbar navbar-expand-lg navbar-absolute fixed-top navbar-transparent">
+        <div class="container-fluid">
+          <div class="navbar-wrapper">
+            <div class="navbar-toggle">
+              <button type="button" class="navbar-toggler">
+                <span class="navbar-toggler-bar bar1"></span>
+                <span class="navbar-toggler-bar bar2"></span>
+                <span class="navbar-toggler-bar bar3"></span>
+              </button>
+            </div>
+            <a class="navbar-brand" href="#pablo"> WATCRA7</a>
+          </div>
+        </div>
+      </nav>
+         <div class="container" style="max-width:100% !important; width:1500px !important; max-height:1200px">
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+             </div>
+         </div>
+
+  </div>
+  <!--   Core JS Files   -->
+  <script src="../assets/js/core/jquery.min.js"></script>
+  <script src="../assets/js/core/popper.min.js"></script>
+  <script src="../assets/js/core/bootstrap.min.js"></script>
+  <script src="../assets/js/plugins/perfect-scrollbar.jquery.min.js"></script>
+  <!--  Google Maps Plugin    -->
+  <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
+  <!-- Chart JS -->
+  <script src="../assets/js/plugins/chartjs.min.js"></script>
+  <!--  Notifications Plugin    -->
+  <script src="../assets/js/plugins/bootstrap-notify.js"></script>
+  <!-- Control Center for Now Ui Dashboard: parallax effects, scripts for the example pages etc -->
+  <script src="../assets/js/paper-dashboard.min.js?v=2.0.0" type="text/javascript"></script>
+  <!-- Paper Dashboard DEMO methods, don't include it in your project! -->
+  <script src="../assets/demo/demo.js"></script>
+
+        </div>
+    </form>
+   
+</body>
+
+</html>
